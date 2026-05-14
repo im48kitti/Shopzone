@@ -1,0 +1,58 @@
+const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    price: 1290,
+    category: "Electronics",
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    rating: 4.5,
+    stock: 10,
+  },
+  {
+    id: 2,
+    name: "Running Shoes",
+    price: 2490,
+    category: "Fashion",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=300&fit=crop",
+    rating: 4.2,
+    stock: 5,
+  },
+  {
+    id: 3,
+    name: "Coffee Maker",
+    price: 1890,
+    category: "Home",
+    image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+    rating: 4.7,
+    stock: 8,
+  },
+  {
+    id: 4,
+    name: "Mechanical Keyboard",
+    price: 3290,
+    category: "Electronics",
+    image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=300&fit=crop",
+    rating: 4.8,
+    stock: 3,
+  },
+  {
+    id: 5,
+    name: "Tennis",
+    price: 890,
+    category: "Sports",
+    image: "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=400&h=300&fit=crop",
+    rating: 4.3,
+    stock: 15,
+  },
+  {
+    id: 6,
+    name: "Backpack",
+    price: 1590,
+    category: "Fashion",
+    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=300&fit=crop",
+    rating: 4.1,
+    stock: 7,
+  },
+];
+
+export default products;
